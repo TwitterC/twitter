@@ -1,1 +1,4 @@
-This is for deployment purpose
+This is for deployment purpos
+deploy java application
+deploy python apps
+deploy in the dev env
